@@ -32,7 +32,7 @@ classifiers = ['Development Status :: 5 - Production/Stable',
                'Topic :: Home Automation',
                'Topic :: System :: Hardware']
 
-setup(name             = 'RPi.GPIO-PineA64',
+setup(name             = 'RPi.GPIO',
       version          = '0.1.0',
       author           = 'Seong-Woo Kim',
       author_email     = 'swkim01@gmail.com',
