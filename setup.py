@@ -33,11 +33,11 @@ classifiers = ['Development Status :: 5 - Production/Stable',
                'Topic :: System :: Hardware']
 
 setup(name             = 'RPi.GPIO',
-      version          = '0.1.0',
+      version          = '0.1.1',
       author           = 'Seong-Woo Kim',
       author_email     = 'swkim01@gmail.com',
       description      = 'A module to control Pine A64/A64+ GPIO channels',
-      long_description = open('README.txt').read() + open('CHANGELOG.txt').read(),
+      long_description = open('README.md').read() + open('CHANGELOG.txt').read(),
       license          = 'MIT',
       keywords         = 'Raspberry Pi GPIO',
       url              = 'http://sourceforge.net/projects/raspberry-gpio-python/',
